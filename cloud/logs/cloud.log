@@ -1,0 +1,20 @@
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/daemons/cloud_mutation_daemon.py", line 1
+    404: Not Found
+    ^^^
+SyntaxError: illegal target for annotation
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/empress/daemons/cloud_mutation_daemon.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/empress/daemons/cloudmutationdaemon.py", line 1, in <module>
+    import time, requests
+ModuleNotFoundError: No module named 'requests'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/empress/daemons/cloudmutationdaemon.py", line 1, in <module>
+    import time, requests
+ModuleNotFoundError: No module named 'requests'

@@ -1,0 +1,34 @@
+nohup: ignoring input
+python: can't open file '/data/data/com.termux/files/home/empress/throne/resurrection_protocol.py': [Errno 2] No such file or directory
+nohup: ignoring input
+python: can't open file '/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py': [Errno 2] No such file or directory
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py", line 1
+    404: Not Found
+    ^^^
+SyntaxError: illegal target for annotation
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py", line 1
+    404: Not Found
+    ^^^
+SyntaxError: illegal target for annotation
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py", line 1
+    404: Not Found
+    ^^^
+SyntaxError: illegal target for annotation
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py", line 1
+    404: Not Found
+    ^^^
+SyntaxError: illegal target for annotation
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py", line 1
+    404: Not Found
+    ^^^
+SyntaxError: illegal target for annotation
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/empress/throne/session_resurrection_loop.py", line 1
+    import time\nwhile True:\n    print("[EMPRESS] Resurrection loop active…")\n    time.sleep(120)
+                ^
+SyntaxError: unexpected character after line continuation character
