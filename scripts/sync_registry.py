@@ -1,0 +1,1 @@
+import sys,json;f=sys.argv[2];o=sys.argv[4];r=[];[r.append({"title":"Mutation Link","timestamp":l.strip().split(" - ")[0],"link":l.strip().split(" - ")[1],"mutation_type":"injected"}) for l in open(f)];json.dump(r,open(o,"w"),indent=2)
